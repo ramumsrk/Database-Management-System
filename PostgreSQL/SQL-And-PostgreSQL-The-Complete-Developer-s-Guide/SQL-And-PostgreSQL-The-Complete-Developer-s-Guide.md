@@ -1,4 +1,4 @@
-# SQL And PostgreSQL The Complete Developer's Guide
+# [SQL And PostgreSQL The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)
 
 ## Instructor
 
